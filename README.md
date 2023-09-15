@@ -1,3 +1,9 @@
+
+![1](https://github.com/akash368/todolist/assets/54389549/4ab33560-165f-4996-9f28-f9c7c86ba13f)
+![image](https://github.com/akash368/todolist/assets/54389549/e84691ea-0955-4926-ac1b-00bf6baa87f9)
+![image](https://github.com/akash368/todolist/assets/54389549/46b5435c-7729-4110-9a27-06b396d9278a)
+
+
 # Technologies Used
 1)ReactJs<br>
 2)HTML<br>
