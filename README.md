@@ -1,7 +1,7 @@
 # Technologies Used
-1)ReactJs
-2)HTML
-3)TailwindCSS
+1)ReactJs<br>
+2)HTML<br>
+3)TailwindCSS<br>
 
 # Getting Started with Create React App
 
