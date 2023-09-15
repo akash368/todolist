@@ -1,3 +1,8 @@
+# Technologies Used
+1)ReactJs<br>
+2)HTML<br>
+3)TailwindCSS<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
